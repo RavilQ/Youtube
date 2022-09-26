@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+    
+}   
+
+.color{
+    
+   
+    font-size: 20px;
+   
+}
+aside{
+   width: 12%;
+   height: 100vh;
+   background-color: white;
+   position: fixed;
+   top: 60px;
+}
+nav span{
+    display: inline-block;
+}
+.log{
+    width: 7%;
+}
+main{
+    margin-top: 70px;
+    margin-left: 15%;
+    
+    width: 85%;
+    height: 750px;
+    background-color: white;
+    
+}
+.item{
+    
+    width: 250px;
+    background-color:orange;
+    height: 200px;
+}
+.all{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+
+}
+.margin-videos{
+    margin-top: 50px;
+}
+.position-fixed{
+    position: fixed;
+}
+.w-100{
+    width: 100%;
+}
+.display-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+input{
+    width: 500px;
+    padding: 10px;
+   
+}
+.input-search{
+    width: 60px;
+    padding: 10px;
+    
+    
+}
+.site-margin{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+.margin-right{
+    margin-right: 60px;
+}
+.icon{
+    font-size: 25px;
+}
+.icons-margin{
+    margin-bottom: 20px;
+}
+.submit{
+    width: 80px;
+    padding: 10px;
+    background-color: white;
+    color: rgb(4, 87, 87);
+    border-color: rgb(4, 87, 87);
+}
+.text-style{
+    margin-left: 10px;
+    font-size: 15px;
+    
+
+}
+.input2{
+    width: 60px;
+    padding: 10px;
+    border: none;
+    background-color: white;
+}
+.site-margin2{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: -72px;
+    background-color: white;
+}
+.margin-videos2{
+    margin-top: 100px;
+}
+.margin{
+    margin-top: 10px;
+}
+.video-text{
+  width: 160px;
+  margin-left: 90px;
+  font-family: sans-serif;
+  margin-top: 10px;
+}
+.video-text2{
+    width: 190px;
+    margin-left: 370px;
+    margin-top: -55px;
+    font-family: sans-serif;
+  }
+.video-text3{
+    width: 180px;
+    margin-left: 670px;
+    margin-top: -55px;
+    font-family: sans-serif;
+  }
+.video-text4{
+    width: 180px;
+    margin-left: 940px;
+    margin-top: -55px;
+    font-family: sans-serif;
+}
+.video-text5{
+    width: 160px;
+    margin-left: 90px;
+    font-family: sans-serif;
+  }
+  .video-text6{
+      width: 190px;
+      margin-left: 370px;
+      margin-top: -68px;
+      font-family: sans-serif;
+    }
+  .video-text7{
+      width: 180px;
+      margin-left: 670px;
+      margin-top: -75px;
+      font-family: sans-serif;
+    }
+  .video-text8{
+      width: 180px;
+      margin-left: 940px;
+      margin-top: -70px;
+      font-family: sans-serif;
+  }
+  .youtube-icon{
+    width: 40px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: -665px;
+  }
+  .youtube-icon2{
+    width: 40px;
+    border-radius: 30px;
+    margin-left: 310px;
+    margin-top: -705px;
+  }
+  .youtube-icon3{
+    width: 40px;
+    border-radius: 30px;
+    margin-left: 590px;
+    margin-top: -765px;
+  }
+  .youtube-icon4{
+    width: 40px;
+    border-radius: 30px;
+    margin-left: 870px;
+    margin-top: -765px;
+  }
+.hesteq{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 40px;
+    padding: 6px;
+    border-radius: 20px;
+    border-style: none;
+}
+.hesteq:hover{
+    background-color: grey;
+    transition: 0.5s;
+}
+.icons-margin:hover{
+    background-color: grey;
+    transition: 0.5s;
+}
